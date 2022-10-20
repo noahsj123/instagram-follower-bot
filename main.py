@@ -11,9 +11,9 @@ import time
 
 CHROME_DRIVER_PATH = "/Users/noahjacobs/Documents/100-days-of-code/chromedriver"
 INSTA_URL = "https://www.instagram.com/accounts/login/"
-SIMILAR_ACCOUNT = "noah_jacobs11"
-USERNAME = "noah_jacobs11"
-PASSWORD = "Pepper123"
+SIMILAR_ACCOUNT = "SIMILAR_ACCOUNT"
+USERNAME = "USERNAME"
+PASSWORD = "PASSWORD"
 
 
 class InstaFollower:
